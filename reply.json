@@ -1,0 +1,13 @@
+{
+  "resourceType": "Patient",
+  "meta": {
+    "lastUpdated": "2021-02-03T09:00:00.001-04:00"
+  },
+  "identifier": [
+    {
+      "system": "https://ehealthontario.ca/API/FHIR/NamingSystem/ca-on-patient-hcn",
+      "value": "9876543219"
+    }
+  ],
+  "active": false
+}
